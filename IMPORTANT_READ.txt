@@ -1,0 +1,1 @@
+AT THE VERY BOTTOM of each code is a brief description on how to use these codes. in the other folder in this github is some files you can try out with teh codes. in those folder is also a README.txt that you need to read.
