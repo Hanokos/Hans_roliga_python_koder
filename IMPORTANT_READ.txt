@@ -1,1 +1,5 @@
-AT THE VERY BOTTOM of each code is a brief description on how to use these codes. in the other folder in this github is some files you can try out with teh codes. in those folder is also a README.txt that you need to read.
+AT THE VERY BOTTOM of each code is a brief description of how to use these codes. 
+in the other folder in this GitHub are some files you can try out with the codes.
+in those folders is also a README.txt that you need to read.
+
+ALSO, some pip installs are required to make these codes work. if you don't know wich to install, just put the full code in CHATgpt and ask what pip install is required to make the code work.
