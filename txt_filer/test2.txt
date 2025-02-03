@@ -1,0 +1,17 @@
+The National Institute of Neurological Disorders and StrokeTrusted Source states that “Alzheimer’s Disease and Alzheimer’s Disease Related Dementias (AD/ADRD) refers to the most common forms of dementia.” Dementia does not have a cure, but research into potential risk factors and early detection remains ongoing.
+
+The authors of the current study wanted to understand more about the timing of REM sleep and its relationship to Alzheimer’s disease and Alzheimer’s disease and related dementias. is a stage in the sleep cycle when vivid dreaming occurs. REM sleep helps with information processing and consolidation.
+
+REM latencyTrusted Source (REML) is the amount of time it takes for someone to reach REM for the first time after falling asleep.
+
+For this study, researchers examined REM sleep, and several biomarkers researchers noted were associated with Alzheimer’s disease and Alzheimer’s disease and related dementias.
+
+This research included 128 participants. Sixty-four of the participants had Alzheimer’s disease, forty-one had mild cognitive impairment, and the rest had normal cognition. All participants were at least fifty years old. Aside from Alzheimer’s disease, researchers excluded participants who had other neurodegenerative disorders like Parkinson’s disease. They also had several other exclusion criteria, such as sleep-related movement disorders or the use of antipsychotic drugs.
+
+Researchers collected data on participants’ medical histories, and all participants underwent cranial MRIs, bloodwork, and a number of cognitive tests before the start of the study.
+
+Participants did an overnight sleep study called polysomnography, which can examine brain waves and other physical functions like eye movement and breathing during sleep. Researchers were able to identify when participants’ REM sleep occurred.
+
+Participants underwent PET scans to look at amyloid betaTrusted Source levels, which can indicate Alzheimer’s disease. Researchers also examined the levels of three plasma biomarkers. Increases in plasma phosphorylated tau at threonine 181 (p-tau 181) may indicate Alzheimer’s disease, and increases in neurofilament light (NfL) may indicate neurodegeneration. Decreases in plasma brain-derived neurotrophic factor (BDNF) can also indicate Alzheimer’s disease.
+
+Researchers also conducted statistical analyses, adjusting for factors like body mass index, sex, and diabetes mellitus. They also adjusted for APOE ε4Trusted Source status, which is a gene that can increase someone’s risk for Alzheimer’s disease.
