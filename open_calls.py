@@ -70,5 +70,6 @@ def fetch_open_calls():
 if __name__ == "__main__":
     fetch_open_calls()
 
-
-# this cant press the "Show more open calls" button to find ALL open calls project right now.
+# it should be just as easy as just running the code and find all the open calls.
+# BUT, this can't press the "Show more open calls" button to find ALL open calls project right now. 
+# so we only get a small portion of all open calls 
