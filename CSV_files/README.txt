@@ -1,1 +1,1 @@
-Here i put zipped csv files you can try with the codes that require a CSV files. CSV files is basically a excel file.
+Here I put zipped CSV files you can try with the codes that require a CSV file. CSV files are Excel files. So, just unzip the files to make them work with the codes
