@@ -19,10 +19,10 @@ my_project/
 │   │   ├── index.js/
 │   │   ├── reportWebVitals.js/
 │   │   ├── setupTests.js/
-│── .gitignore       
-│── package.json          # Dependencies for React
-│── package-lock.json        
-│── README.md             # Instructions
+│   ├── .gitignore       
+│   ├── package.json          # Dependencies for React
+│   ├── package-lock.json        
+│   ├── README.md             # Instructions
 
 
 you need to ahve two open terminals and run following commands in the right foldes to make it work:
