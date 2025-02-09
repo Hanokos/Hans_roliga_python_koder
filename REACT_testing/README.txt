@@ -2,8 +2,8 @@ This is a react test. install the correct pip install and make sure that its str
 
 
 my_project/
-│── .venv/
-│── backend/
+│── .venv/  ----------------------- OBS! not necessary, but I RECOMMEND a virtual environment.
+│── backend/                               or it could screw up other codes you're doing.
 │   ├── _pycache_/       
 │   ├── main.py           # FastAPI backend
 │   ├── requirements.txt  # Dependencies for Python
